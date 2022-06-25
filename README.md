@@ -1,22 +1,22 @@
-# Applied_Statistics_Project
+# Applied Statistics Project
 
 Our project is to analyze the sleep patterns of IITH students. The objective is to identify various factors which affect our sleep and the way they affect us.
 
 The variables of interest for this study are: - 
  
 Response variables (Response Variable is the focus of question in a study)
-* Number of hours of sleep(night)(continuous numerical/Ordinal Categorical)
-* Start time of sleep (night)(continuous numerical)
+* Number of hours of sleep(night)
+* Start time of sleep (night)
 
-Explanatory variables (variable(we know) that affect response variables)
-* Whether a person consume caffeine, yes/no (Nominal/Regular Categorical)
-* How many times caffeinated drinks are consumed per day(OrdinalCategorical)
-* How and at when do people watch lectures (Nominal/Regular Categorical)
-* How and when do people submit assignments?(Nominal/Regular Categorical)
-* Screen time to study(Ordinal Categorical / continuous numerical)
-* Start time of study (continuous numerical)
-* Screen time other than study(Ordinal Categorical / continuous numerical)
-* Time spent on physical activities(Ordinal Categorical)
+Explanatory variables (Variables that affect response variables)
+* Whether a person consume caffeine, yes/no 
+* How many times caffeinated drinks are consumed per day
+* How and at when do people watch lectures 
+* How and when do people submit assignments?
+* Screen time to study
+* Start time of study 
+* Screen time other than study
+* Time spent on physical activities
                
 As our interest is to analyze natural sleeping patterns we perform an observational study, we neglect the effect of any confounding variables.
 

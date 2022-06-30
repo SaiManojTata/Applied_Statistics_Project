@@ -26,7 +26,6 @@ Team consists of
 * Tata Sai Manoj
 * Krishna Teja Chilukuri 
 * VKS Deepak Reddy 
-* Sumanth NR
 * Nikhil Kongara
 * Prajwaldeep Kamble
 * Karthik Kurugodu

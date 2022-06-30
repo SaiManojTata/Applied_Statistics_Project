@@ -21,3 +21,14 @@ Explanatory variables (Variables that affect response variables)
 As our interest is to analyze natural sleeping patterns we perform an observational study, we neglect the effect of any confounding variables.
 
 We used sampling more specifically volunteer sampling for collection of data by sending mail to every student at IITH but only a few of them volunteered to respond. To make as many people respond as possible we also send remainders. We managed to collect data from 132 people, the data is diverse with data from all years of UG, PG and PhD students.
+
+Team consists of 
+* Tata Sai Manoj
+* Krishna Teja Chilukuri 
+* VKS Deepak Reddy 
+* Sumanth NR
+* Nikhil Kongara
+* Prajwaldeep Kamble
+* Karthik Kurugodu
+* Venkata Raghav Ambati
+* Anurag Gopi

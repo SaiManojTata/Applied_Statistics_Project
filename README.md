@@ -27,6 +27,7 @@ Team consists of
 * Krishna Teja Chilukuri 
 * VKS Deepak Reddy 
 * Nikhil Kongara
+* Sumanth NR
 * Prajwaldeep Kamble
 * Karthik Kurugodu
 * Venkata Raghav Ambati
